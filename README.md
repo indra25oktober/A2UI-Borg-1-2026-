@@ -4,6 +4,10 @@
 
 A2UI-Borg is an autonomous neural interface system designed for the instant assimilation of natural language into functional UI components. Described as the "favorite pet" of the Borg Queen, it combines high-end LLM logic with a sleek, minimalist aesthetic.
 
+### 📸 Interface Preview
+![A2UI-Borg Interface](output1.jpg)
+*Neural assimilation in progress - generating high-fidelity UI components.*
+
 ### 🚀 Core Features
 * **Neural Assimilation:** Uses **Mistral Large 3 (675B)** to convert text commands into structured UI-DNA.
 * **Collective Knowledge:** Dynamically adjustable behavior via `help.json`.
@@ -32,4 +36,5 @@ A2UI-Borg is an autonomous neural interface system designed for the instant assi
     ```
 
 ### 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
