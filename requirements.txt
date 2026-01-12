@@ -1,0 +1,8 @@
+openai
+nicegui
+numpy
+pydantic
+rich
+watchfiles
+aiofiles
+loguru

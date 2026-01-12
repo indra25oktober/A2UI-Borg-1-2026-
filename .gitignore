@@ -1,0 +1,9 @@
+# Security: Do NOT upload the environment file
+.env
+
+# Snapshots: Evolution history
+evolution_snapshots/
+
+# Python: Ignore cache files
+__pycache__/
+*.py[cod]

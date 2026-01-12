@@ -1,0 +1,19 @@
+{
+  "project": "A2UI-Borg - Master Hub",
+  "version": "1.9.3",
+  "system_directives": {
+    "general": "Design: Dark, minimalist, Borg-style. Use precise technical language. Focus on efficiency.",
+    "saas_support": "Focus: Ticket ID, status switches, and priority levels. Interface must be optimized for rapid support response.",
+    "admin_expert": "Focus: Data processing and system control. Use sliders for thresholds, master switches for global permissions, and group elements logically with labels. Aim for maximum system authority."
+  },
+  "component_rules": {
+    "input": "Labels max 3 words. Validate for system IDs.",
+    "slider": "Precision step of 1 for admin tools. Default: 50.",
+    "button": "Admin actions like 'PURGE' or 'DELETE' must be highlighted as critical.",
+    "switch": "Always include clear 'Active/Inactive' labeling."
+  },
+  "data_logic": {
+    "numpy_export": "If user mentions 'Analysis' or 'Export', generate a 'DOWNLOAD NUMPY ARRAY' button.",
+    "analytics_threshold": "Use slider values as input for fitness-score calculations."
+  }
+}
